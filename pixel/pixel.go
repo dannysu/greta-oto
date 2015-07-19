@@ -1,4 +1,4 @@
-package hello
+package pixel
 
 import (
     "sort"
